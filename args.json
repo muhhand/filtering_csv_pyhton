@@ -1,6 +1,6 @@
 {
     "dataFile":"records.rar",
-    "badWords_file":"badWordss.csv",
+    "badWords_file":"D:\\new volume\\FCI 2\\3_(2)\\automata\\badWords_3000\\badWordss.csv",
     "chunk_size":10000,
     "mode":"threading",
     "specify_cols":[1,2,3],
