@@ -1,0 +1,10 @@
+{
+    "dataFile":"records.rar",
+    "badWords_file":"badWordss.csv",
+    "chunk_size":10000,
+    "mode":"threading",
+    "specify_cols":[1,2,3],
+    "head":[0,1,2],
+    "filter_mode":"AHO"
+
+}

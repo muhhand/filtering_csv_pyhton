@@ -1,0 +1,164 @@
+ 2023-05-07 15:11:25,681 INFO     Main: run in process
+ 2023-05-07 15:11:28,702 INFO     Initializing RarFile object...
+ 2023-05-07 15:11:28,722 INFO     RarFile object initialized successfully.
+ 2023-05-07 15:11:33,187 INFO     00:00:07.51  consumer:start filtering and writing chunks using AHO.
+ 2023-05-07 15:15:29,709 INFO     Main: run in threads
+ 2023-05-07 15:15:29,711 INFO     Initializing RarFile object...
+ 2023-05-07 15:15:29,714 INFO     RarFile object initialized successfully.
+ 2023-05-07 15:15:29,783 INFO     00:00:00.07  Producer: start reading chunks.
+ 2023-05-07 15:15:29,785 INFO     00:00:00.08  consumer:start filtering and writing chunks using AHO.
+ 2023-05-07 15:17:37,595 INFO     Main: run in threads
+ 2023-05-07 15:17:37,599 INFO     Initializing RarFile object...
+ 2023-05-07 15:17:37,601 INFO     RarFile object initialized successfully.
+ 2023-05-07 15:17:37,672 INFO     00:00:00.08  Producer: start reading chunks.
+ 2023-05-07 15:17:37,675 INFO     00:00:00.08  consumer:start filtering and writing chunks using AHO.
+ 2023-05-07 15:18:18,432 INFO     Main: run in threads
+ 2023-05-07 15:18:18,434 INFO     Initializing RarFile object...
+ 2023-05-07 15:18:18,437 INFO     RarFile object initialized successfully.
+ 2023-05-07 15:18:18,527 INFO     00:00:00.10  Producer: start reading chunks.
+ 2023-05-07 15:18:18,529 INFO     00:00:00.10  consumer:start filtering and writing chunks using AHO.
+ 2023-05-07 15:18:21,080 INFO     00:00:02.65  Producer:read 1 chunks and send it into queue.
+ 2023-05-07 15:18:21,156 INFO     00:00:02.72  Producer: finish reading all chunks.
+ 2023-05-07 15:18:21,441 INFO     00:00:03.01  Consumer: finish filtering and writing the chunk number 1
+ 2023-05-07 15:18:21,445 INFO     00:00:03.01  Consumer:starting write excel and csv files statistics ....
+ 2023-05-07 15:18:21,519 INFO     00:00:03.09  Consumer:finish of write excel and csv files statistics .
+ 2023-05-07 15:18:21,520 INFO     Main: run in threads
+ 2023-05-07 15:18:21,521 INFO     Initializing RarFile object...
+ 2023-05-07 15:18:21,523 INFO     RarFile object initialized successfully.
+ 2023-05-07 15:18:21,590 INFO     00:00:00.07  Producer: start reading chunks.
+ 2023-05-07 15:18:21,593 INFO     00:00:00.07  consumer:start filtering and writing chunks using AHO.
+ 2023-05-07 15:18:23,096 INFO     00:00:01.58  Producer:read 1 chunks and send it into queue.
+ 2023-05-07 15:18:23,127 INFO     00:00:01.61  Producer: finish reading all chunks.
+ 2023-05-07 15:18:23,400 INFO     00:00:01.88  Consumer: finish filtering and writing the chunk number 1
+ 2023-05-07 15:18:23,404 INFO     00:00:01.88  Consumer:starting write excel and csv files statistics ....
+ 2023-05-07 15:18:23,478 INFO     00:00:01.96  Consumer:finish of write excel and csv files statistics .
+ 2023-05-07 15:18:23,480 INFO     Main: run in threads
+ 2023-05-07 15:18:23,481 INFO     Initializing RarFile object...
+ 2023-05-07 15:18:23,482 INFO     RarFile object initialized successfully.
+ 2023-05-07 15:18:23,545 INFO     00:00:00.06  Producer: start reading chunks.
+ 2023-05-07 15:18:23,553 INFO     00:00:00.07  consumer:start filtering and writing chunks using AHO.
+ 2023-05-07 15:18:24,636 INFO     00:00:01.16  Producer:read 1 chunks and send it into queue.
+ 2023-05-07 15:18:24,666 INFO     00:00:01.19  Producer: finish reading all chunks.
+ 2023-05-07 15:18:24,944 INFO     00:00:01.46  Consumer: finish filtering and writing the chunk number 1
+ 2023-05-07 15:18:24,947 INFO     00:00:01.47  Consumer:starting write excel and csv files statistics ....
+ 2023-05-07 15:18:25,016 INFO     00:00:01.54  Consumer:finish of write excel and csv files statistics .
+ 2023-05-07 15:18:25,018 INFO     Main: run in threads
+ 2023-05-07 15:18:25,019 INFO     Initializing RarFile object...
+ 2023-05-07 15:18:25,023 INFO     RarFile object initialized successfully.
+ 2023-05-07 15:18:25,086 INFO     00:00:00.07  Producer: start reading chunks.
+ 2023-05-07 15:18:25,088 INFO     00:00:00.07  consumer:start filtering and writing chunks using AHO.
+ 2023-05-07 15:18:26,624 INFO     00:00:01.61  Producer:read 1 chunks and send it into queue.
+ 2023-05-07 15:18:26,655 INFO     00:00:01.64  Producer: finish reading all chunks.
+ 2023-05-07 15:18:26,934 INFO     00:00:01.92  Consumer: finish filtering and writing the chunk number 1
+ 2023-05-07 15:18:26,937 INFO     00:00:01.92  Consumer:starting write excel and csv files statistics ....
+ 2023-05-07 15:18:27,006 INFO     00:00:01.99  Consumer:finish of write excel and csv files statistics .
+ 2023-05-07 15:18:27,009 INFO     Main: run in threads
+ 2023-05-07 15:18:27,009 INFO     Initializing RarFile object...
+ 2023-05-07 15:18:27,011 INFO     RarFile object initialized successfully.
+ 2023-05-07 15:18:27,076 INFO     00:00:00.07  Producer: start reading chunks.
+ 2023-05-07 15:18:27,079 INFO     00:00:00.07  consumer:start filtering and writing chunks using AHO.
+ 2023-05-07 15:18:28,622 INFO     00:00:01.61  Producer:read 1 chunks and send it into queue.
+ 2023-05-07 15:18:28,653 INFO     00:00:01.64  Producer: finish reading all chunks.
+ 2023-05-07 15:18:29,002 INFO     00:00:01.99  Consumer: finish filtering and writing the chunk number 1
+ 2023-05-07 15:18:29,004 INFO     00:00:02.00  Consumer:starting write excel and csv files statistics ....
+ 2023-05-07 15:18:29,237 INFO     00:00:02.23  Consumer:finish of write excel and csv files statistics .
+ 2023-05-07 15:18:29,240 INFO     Main: run in threads
+ 2023-05-07 15:18:29,240 INFO     Initializing RarFile object...
+ 2023-05-07 15:18:29,242 INFO     RarFile object initialized successfully.
+ 2023-05-07 15:18:29,311 INFO     00:00:00.07  Producer: start reading chunks.
+ 2023-05-07 15:18:29,319 INFO     00:00:00.08  consumer:start filtering and writing chunks using AHO.
+ 2023-05-07 15:18:30,485 INFO     00:00:01.25  Producer:read 1 chunks and send it into queue.
+ 2023-05-07 15:18:30,563 INFO     00:00:01.32  Producer: finish reading all chunks.
+ 2023-05-07 15:18:30,858 INFO     00:00:01.62  Consumer: finish filtering and writing the chunk number 1
+ 2023-05-07 15:18:30,863 INFO     00:00:01.62  Consumer:starting write excel and csv files statistics ....
+ 2023-05-07 15:18:30,940 INFO     00:00:01.70  Consumer:finish of write excel and csv files statistics .
+ 2023-05-07 15:18:30,941 INFO     Main: run in threads
+ 2023-05-07 15:18:30,942 INFO     Initializing RarFile object...
+ 2023-05-07 15:18:30,946 INFO     RarFile object initialized successfully.
+ 2023-05-07 15:18:31,012 INFO     00:00:00.07  Producer: start reading chunks.
+ 2023-05-07 15:18:31,017 INFO     00:00:00.08  consumer:start filtering and writing chunks using AHO.
+ 2023-05-07 15:18:31,703 INFO     00:00:00.76  Producer:read 1 chunks and send it into queue.
+ 2023-05-07 15:18:31,707 INFO     00:00:00.77  Producer: finish reading all chunks.
+ 2023-05-07 15:18:32,161 INFO     00:00:01.22  Consumer: finish filtering and writing the chunk number 1
+ 2023-05-07 15:18:32,164 INFO     00:00:01.22  Consumer:starting write excel and csv files statistics ....
+ 2023-05-07 15:18:32,277 INFO     00:00:01.34  Consumer:finish of write excel and csv files statistics .
+ 2023-05-07 15:18:32,279 INFO     Main: run in threads
+ 2023-05-07 15:18:32,280 INFO     Initializing RarFile object...
+ 2023-05-07 15:18:32,283 INFO     RarFile object initialized successfully.
+ 2023-05-07 15:18:32,375 INFO     00:00:00.10  Producer: start reading chunks.
+ 2023-05-07 15:18:32,384 INFO     00:00:00.11  consumer:start filtering and writing chunks using AHO.
+ 2023-05-07 15:18:33,694 INFO     00:00:01.42  Producer:read 1 chunks and send it into queue.
+ 2023-05-07 15:18:33,725 INFO     00:00:01.45  Producer: finish reading all chunks.
+ 2023-05-07 15:18:34,033 INFO     00:00:01.75  Consumer: finish filtering and writing the chunk number 1
+ 2023-05-07 15:18:34,035 INFO     00:00:01.76  Consumer:starting write excel and csv files statistics ....
+ 2023-05-07 15:18:34,103 INFO     00:00:01.82  Consumer:finish of write excel and csv files statistics .
+ 2023-05-07 15:18:34,105 INFO     Main: run in threads
+ 2023-05-07 15:18:34,105 INFO     Initializing RarFile object...
+ 2023-05-07 15:18:34,107 INFO     RarFile object initialized successfully.
+ 2023-05-07 15:18:34,171 INFO     00:00:00.06  Producer: start reading chunks.
+ 2023-05-07 15:18:34,173 INFO     00:00:00.07  consumer:start filtering and writing chunks using AHO.
+ 2023-05-07 15:18:35,266 INFO     00:00:01.16  Producer:read 1 chunks and send it into queue.
+ 2023-05-07 15:18:35,296 INFO     00:00:01.19  Producer: finish reading all chunks.
+ 2023-05-07 15:18:35,709 INFO     00:00:01.60  Consumer: finish filtering and writing the chunk number 1
+ 2023-05-07 15:18:35,712 INFO     00:00:01.61  Consumer:starting write excel and csv files statistics ....
+ 2023-05-07 15:18:35,798 INFO     00:00:01.69  Consumer:finish of write excel and csv files statistics .
+ 2023-05-07 15:18:35,800 INFO     Main: run in threads
+ 2023-05-07 15:18:35,800 INFO     Initializing RarFile object...
+ 2023-05-07 15:18:35,802 INFO     RarFile object initialized successfully.
+ 2023-05-07 15:18:35,883 INFO     00:00:00.08  Producer: start reading chunks.
+ 2023-05-07 15:18:35,886 INFO     00:00:00.09  consumer:start filtering and writing chunks using AHO.
+ 2023-05-07 15:18:37,213 INFO     00:00:01.41  Producer:read 1 chunks and send it into queue.
+ 2023-05-07 15:18:37,242 INFO     00:00:01.44  Producer: finish reading all chunks.
+ 2023-05-07 15:18:37,694 INFO     00:00:01.89  Consumer: finish filtering and writing the chunk number 1
+ 2023-05-07 15:18:37,697 INFO     00:00:01.90  Consumer:starting write excel and csv files statistics ....
+ 2023-05-07 15:18:37,783 INFO     00:00:01.98  Consumer:finish of write excel and csv files statistics .
+ 2023-05-07 15:18:37,784 INFO     Main: run in threads
+ 2023-05-07 15:18:37,785 INFO     Initializing RarFile object...
+ 2023-05-07 15:18:37,787 INFO     RarFile object initialized successfully.
+ 2023-05-07 15:18:37,850 INFO     00:00:00.07  Producer: start reading chunks.
+ 2023-05-07 15:18:37,863 INFO     00:00:00.08  consumer:start filtering and writing chunks using AHO.
+ 2023-05-07 15:18:38,607 INFO     00:00:00.82  Producer:read 1 chunks and send it into queue.
+ 2023-05-07 15:18:38,633 INFO     00:00:00.85  Producer: finish reading all chunks.
+ 2023-05-07 15:18:39,241 INFO     00:00:01.46  Consumer: finish filtering and writing the chunk number 1
+ 2023-05-07 15:18:39,247 INFO     00:00:01.46  Consumer:starting write excel and csv files statistics ....
+ 2023-05-07 15:18:39,369 INFO     00:00:01.58  Consumer:finish of write excel and csv files statistics .
+ 2023-05-07 15:18:39,370 INFO     Main: run in threads
+ 2023-05-07 15:18:39,371 INFO     Initializing RarFile object...
+ 2023-05-07 15:18:39,373 INFO     RarFile object initialized successfully.
+ 2023-05-07 15:18:39,441 INFO     00:00:00.07  Producer: start reading chunks.
+ 2023-05-07 15:18:39,450 INFO     00:00:00.08  consumer:start filtering and writing chunks using AHO.
+ 2023-05-07 15:18:40,088 INFO     00:00:00.72  Producer:read 1 chunks and send it into queue.
+ 2023-05-07 15:18:40,152 INFO     00:00:00.78  Producer: finish reading all chunks.
+ 2023-05-07 15:18:40,439 INFO     00:00:01.07  Consumer: finish filtering and writing the chunk number 1
+ 2023-05-07 15:18:40,445 INFO     00:00:01.07  Consumer:starting write excel and csv files statistics ....
+ 2023-05-07 15:18:40,615 INFO     00:00:01.25  Consumer:finish of write excel and csv files statistics .
+ 2023-05-07 15:18:40,616 INFO     Main: run in threads
+ 2023-05-07 15:18:40,618 INFO     Initializing RarFile object...
+ 2023-05-07 15:18:40,620 INFO     RarFile object initialized successfully.
+ 2023-05-07 15:18:40,688 INFO     00:00:00.07  Producer: start reading chunks.
+ 2023-05-07 15:18:40,692 INFO     00:00:00.08  consumer:start filtering and writing chunks using AHO.
+ 2023-05-07 15:18:41,777 INFO     00:00:01.16  Producer:read 1 chunks and send it into queue.
+ 2023-05-07 15:18:41,808 INFO     00:00:01.19  Producer: finish reading all chunks.
+ 2023-05-07 15:18:42,226 INFO     00:00:01.61  Consumer: finish filtering and writing the chunk number 1
+ 2023-05-07 15:18:42,230 INFO     00:00:01.61  Consumer:starting write excel and csv files statistics ....
+ 2023-05-07 15:18:42,312 INFO     00:00:01.70  Consumer:finish of write excel and csv files statistics .
+ 2023-05-07 15:18:42,314 INFO     Main: run in threads
+ 2023-05-07 15:18:42,315 INFO     Initializing RarFile object...
+ 2023-05-07 15:18:42,316 INFO     RarFile object initialized successfully.
+ 2023-05-07 15:18:42,376 INFO     00:00:00.06  Producer: start reading chunks.
+ 2023-05-07 15:18:42,386 INFO     00:00:00.07  consumer:start filtering and writing chunks using AHO.
+ 2023-05-07 15:18:42,957 INFO     00:00:00.64  Producer:read 1 chunks and send it into queue.
+ 2023-05-07 15:18:42,989 INFO     00:00:00.67  Producer: finish reading all chunks.
+ 2023-05-07 15:18:43,286 INFO     00:00:00.97  Consumer: finish filtering and writing the chunk number 1
+ 2023-05-07 15:18:43,291 INFO     00:00:00.98  Consumer:starting write excel and csv files statistics ....
+ 2023-05-07 15:18:43,371 INFO     00:00:01.06  Consumer:finish of write excel and csv files statistics .
+ 2023-05-07 15:18:43,372 INFO     Main: run in threads
+ 2023-05-07 15:18:43,373 INFO     Initializing RarFile object...
+ 2023-05-07 15:18:43,375 INFO     RarFile object initialized successfully.
+ 2023-05-07 15:18:43,453 INFO     00:00:00.08  Producer: start reading chunks.
+ 2023-05-07 15:18:43,456 INFO     00:00:00.08  consumer:start filtering and writing chunks using AHO.
+ 2023-05-07 15:18:44,113 INFO     00:00:00.74  Producer:read 1 chunks and send it into queue.
+ 2023-05-07 15:18:44,144 INFO     00:00:00.77  Producer: finish reading all chunks.
+ 2023-05-07 15:18:44,502 INFO     00:00:01.13  Consumer: finish filtering and writing the chunk number 1
+ 2023-05-07 15:18:44,504 INFO     00:00:01.13  Consumer:starting write excel and csv files statistics ....
+ 2023-05-07 15:18:44,595 INFO     00:00:01.22  Consumer:finish of write excel and csv files statistics .
